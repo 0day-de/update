@@ -5,6 +5,6 @@
 
 **How To Use**
 ---------------
-
++ Install toilet and lolcat package before use.
 + chmod +x update.sh
 + ./update.sh
